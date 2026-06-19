@@ -40,7 +40,7 @@ states, customers, product categories, and payment trends.
 | `screenshots/` | Dashboard preview images |
 
 ## 🖼️ Screenshots
-![Dashboard View](screenshots/dashboard_full_year_allstates.png)
+![Dashboard View](dashboard_full_year_allstates.png)
 
 ## 👤 Author
 Om — Aspiring Data Analyst / MIS Executive
